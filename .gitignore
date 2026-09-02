@@ -1,0 +1,19 @@
+# SQL Server database files
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.trn
+
+# SQL Server Management Studio / local files
+*.suo
+*.user
+*.cache
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
